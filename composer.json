@@ -1,0 +1,19 @@
+{
+    "name": "luizemanoel/tarefas",
+    "description": "Sistema de tarefas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tarefas\\": "src/"
+          
+        }
+    },
+    "authors": [
+        {
+            "name": "Luiz Emanoel",
+            "email": "luizemanoelponce@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
